@@ -1,0 +1,23 @@
+{
+  "name": "node-analyzing-shakespeare",
+  "version": "1.0.0",
+  "description": "Node version of the thoughtbot exercise: https://github.com/thoughtbot-upcase-exercises/analyzing-shakespeare",
+  "main": "src/index.js",
+  "repository": "https://github.com/jhenriquez/node-analyzing-shakespeare",
+  "author": "Julio Henriquez <julio.m.henriquez@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "jest": "24.8.0",
+    "nock": "v11.0.0"
+  },
+  "dependencies": {
+    "dotenv": "8.0.0",
+    "got": "9.6.0",
+    "lodash": "^4.17.15",
+    "url-join": "^4.0.1",
+    "xml-js": "1.6.11",
+    "xmldom": "^0.1.27",
+    "xpath.js": "^1.1.0"
+  }
+}
