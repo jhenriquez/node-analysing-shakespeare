@@ -12,6 +12,7 @@
     "nock": "v11.0.0"
   },
   "dependencies": {
+    "columnify": "^1.5.4",
     "dotenv": "8.0.0",
     "got": "9.6.0",
     "lodash": "^4.17.15",
